@@ -87,7 +87,7 @@ Pull requests are welcome! Please include tests and update the documentation as 
 
 ---
 
-## 🙌 Credits
+## Credits
 
-Created by \[Your Name] using Rust, Yew, and Axum ❤️
+Created by Gaurav Kumar using Rust, Yew, and Axum ❤️
 
